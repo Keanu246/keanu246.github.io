@@ -1,3 +1,14 @@
+plugins:
+  - jekyll-seo-tag
+<html>
+  <head>
+    {% Keanu246 %}
+    {% The site of games and more! %}
+  </head>
+</html>
+
 Hello, welcome to my site! Where you can find my games!
 
-Help us to '''improve''' the site now!
+Help us to improve the site now!
+
+<strong>Support us by going to our wiki!</strong>
