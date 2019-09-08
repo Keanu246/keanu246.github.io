@@ -1,7 +1,7 @@
-plugins:
-  - jekyll-seo-tag
 <html>
   <head>
+    plugins: 
+  - jekyll-seo-tag
     {% Keanu246 %}
     {% The site of games and more! %}
   </head>
