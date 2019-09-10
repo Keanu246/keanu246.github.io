@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
+  
+url: keanu246.github.io
+
